@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "3a208a581346b0c05c16f48861fe0c81"
+build_time: [1622430080, 519007000]
+inputs:
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/Models/Contacts.swift": [1622419774, 110859146]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/APIService/APIService.swift": [1622430080, 439081337]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/ViewModels/ContactsViewModel.swift": [1622430036, 376527579]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/Controllers/ViewController.swift": [1622429838, 19856964]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/Models/FreqContacts.swift": [1622419949, 537633467]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/AppDelegate.swift": [1622418592, 629614515]
+  "/Users/janearnonobal/POC-workspace/Bray_workspace/mamo/mamocode/contacts/Contacts/Contacts/SceneDelegate.swift": [1622418592, 640771271]

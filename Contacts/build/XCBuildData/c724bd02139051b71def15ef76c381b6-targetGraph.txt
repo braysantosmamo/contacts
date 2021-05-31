@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Contacts in Contacts
+ContactsTests in Contacts, depends on:
+Contacts in Contacts (explicit)
+ContactsUITests in Contacts, depends on:
+Contacts in Contacts (explicit)
